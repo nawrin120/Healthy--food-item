@@ -34,3 +34,14 @@ section{
     background-image: url(images/green.jpg);
     background-repeat: no-repeat;
 }
+.fish-width{
+padding-left: 10%;
+padding-right: 10%;
+}
+.fish-width img{
+    width: 130%;
+}
+.recipie{
+    margin:auto;
+    text-align: center;
+}
