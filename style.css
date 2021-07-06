@@ -1,0 +1,31 @@
+body{
+    font-family: 'Encode Sans SC', sans-serif;
+    margin: 0px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left:5%;
+}
+.half-width img{
+
+    width: 70%;
+}
+.orange-color{
+    color: orangered;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(18, 255, 255),rgb(41, 41, 143) );
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+
+}
