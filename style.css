@@ -4,6 +4,7 @@ body{
 }
 section{
     display: flex;
+    
 }
 .half-width{
     width: 50%;
@@ -28,4 +29,8 @@ section{
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
 
+}
+.fish-area{
+    background-image: url(images/green.jpg);
+    background-repeat: no-repeat;
 }
